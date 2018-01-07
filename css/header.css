@@ -1,0 +1,59 @@
+*{margin:0; padding: 0; border: 0;}
+
+		.wrap{
+			width: 100%;
+		}
+
+		.clearfix:before,
+		.clearfix:after {
+					    content: "";
+					    display: block;
+					    clear: both;
+					    visibility: hidden;
+					    line-height: 0;
+					    height: 0;
+					    font-size:0;
+}
+
+		.clearfix { *zoom:1;}
+
+		header{
+			width: 100%;
+			background-image: url('../images/nbg.png');
+		}
+
+		.top{
+			width: 1440px;
+			margin:0 auto;
+		}
+
+		
+
+		.logo{
+			width: 277px;
+			padding-top: 91px;
+			background-image: url('../images/logo.png');
+			display: block;
+			margin-left: 230px;
+			float: left;
+			
+		}
+
+		nav li{
+			width: 110px;
+			border-right: 1px solid #fff;
+			float: left;
+			list-style: none;
+			text-align: center;
+		}
+
+		nav a{
+			text-decoration: none;
+			color: #353535;
+			line-height: 90px;
+
+		}
+
+		nav a:hover{
+			color: #d21436;
+		}

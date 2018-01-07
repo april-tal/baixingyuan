@@ -1,0 +1,100 @@
+.footer-up{
+			width: 100%;
+			border-top: 1px solid #e5e5e5;
+			margin-top: 58px;
+
+		}
+
+		.footer-top{
+			width: 1442px;
+			margin:0 auto;
+	
+		}
+
+		.footer-top a{
+			text-decoration: none;
+			color: #7e7e7e;
+			font-size: 14px;
+			line-height: 20px;
+		}
+
+		.footer-top a:hover{
+			color: #cd0f31;
+		}
+
+		.footer-top li{
+			list-style: none;
+		}
+
+		.footer-up h4{
+			font-weight: normal;
+			line-height: 54px;
+			padding-top: 6px;
+		}
+
+		.footer-top div{
+			width: 130px;
+			float: left;
+			margin-right: 40px;
+			border-right: 1px solid #e5e5e5;
+		}
+
+		.footer-top div:first-child{
+			margin-left: 200px;
+		}
+
+		.footer-top div:last-child{
+			border-right: none;
+		}
+
+		.footer-down-bg{
+			width: 100%;
+			background-color: #2d2d2d;
+			margin-top: 166px;
+			padding-top: 19px;
+			padding-bottom: 19px;
+		}
+
+		.footer-down{
+			width: 1004px;
+			margin:0 auto;
+		}
+
+		.footer-down .tel{
+			color: #bfbfbf;
+			font-size: 14px;
+			background-image: url('../images/tel_13.jpg');
+			background-repeat: no-repeat;
+			background-position-y: 6px;
+			text-indent: 18px;
+		}
+
+		.footer-down .tel span{
+			color: #d6d6d6;
+			font-size: 20px;
+			font-family: 汉仪大黑简；
+		}
+
+		.footer-down .copyright{
+			color: #bfbfbf;
+			font-size: 14px;
+		}
+
+		.share{
+			float: right;
+			margin-top: -54px;
+		}
+
+		.share img{
+			margin:0 15px;
+		}
+
+		.share p{
+			color: #cb1a27;
+			font-size: 12px;
+			margin-left: 25px;
+		}
+
+		.share p span{
+			margin-left: 46px;
+		}
